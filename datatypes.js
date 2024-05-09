@@ -1,7 +1,7 @@
 let num=19;
 console.log(num);
 let name='Supriti';
-console.log(name)
+console.log(name);
 let isfollow='false';
 console.log(isfollow);
 
