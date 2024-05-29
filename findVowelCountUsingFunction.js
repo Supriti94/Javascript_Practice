@@ -8,3 +8,5 @@ function countvowels(str ){
     }
 }
 console.log(count);
+
+countvowels("agthhtfbciou");
